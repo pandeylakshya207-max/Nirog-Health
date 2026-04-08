@@ -66,3 +66,5 @@ NIROG is an AI-powered healthcare assistant that helps users analyze symptoms an
 ## 📜 License
 
 MIT License
+
+🏥 [NIROG](https://github.com/pandeylakshya207-max/nirog-health)
