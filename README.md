@@ -42,7 +42,7 @@
 
 **Built with:** `Python` · `Scikit-learn` · `Pandas` · `NumPy` · `Streamlit / Flask`
 
-📂 [View Repository →](https://github.com/YOUR_GITHUB_USERNAME/nirog) &nbsp;|&nbsp; 🌐 [Live Demo →](https://nirog.streamlit.app)
+📂 [View Repository →](https://github.com/pandeylakshya207-max/nirog) &nbsp;|&nbsp; 🌐 [Live Demo →](https://nirog.streamlit.app)
 
 ---
 
